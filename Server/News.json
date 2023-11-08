@@ -1,7 +1,15 @@
 {
-  "LastUpdate": "2023/11/07 11:44",
+  "LastUpdate": "2023/11/08 11:25",
   "NewRelease": [
-        {
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/dora727/KaedeFriedDora/master/Essentials/manifest.json",
+      "PackageID": "meow.doraa.MikhakClockFont100.iOS16"
+    },
+    {
+      "RepositoryURL": "https://raw.githubusercontent.com/dora727/KaedeFriedDora/master/Essentials/manifest.json",
+      "PackageID": "meow.doraa.FacebookEmoji"
+    },
+    {
       "RepositoryURL": "https://raw.githubusercontent.com/dora727/KaedeFriedDora/master/Essentials/manifest.json",
       "PackageID": "meow.doraa.AppleEmojiLQ"
     },
